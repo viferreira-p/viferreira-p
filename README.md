@@ -7,7 +7,7 @@
    
   👋 Oi, pessoas! Me chamo Vitória, uma admiradora da tecnologia e apaixonada por programação <br> <br>
   🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Descomplica Faculdade Digital  <br> <br>
-  🐞 Meu foco e paixão estão em Desenvolvimento Back End voltado a Java  <br> <br>
+  🐞 Meu foco e paixão estão em Desenvolvimento Back-End voltado a Java ☕  <br> <br>
   🌱 Estou constantemente em busca de conhecimento para aprimorar minhas habilidades!  <br> <br>
  
  </div>
@@ -41,11 +41,11 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true) -->
 <br>
 
-  <h2 align="center">Tech Stack</h2>
+  <h2 align="center">Tecnologias:</h2>
   <p align="center">
     
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,bootstrap,scss,docker,php,postgres,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=js,bootstrap,html,scss,java" />
   </a>
 </p>
 
