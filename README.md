@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif"  width="250"  align="right"  alt="Formando img"/>
 
    
-  👋 Oi, pessoas! Me chamo Vitória, uma admiradora da tecnologia e apaixonada por programação <br> <br>
+  👋 Oi, pessoas! Me chamo Vitória, tenho 23 anos, uma admiradora da tecnologia e apaixonada por programação <br> <br>
   🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Descomplica Faculdade Digital  <br> <br>
   📝 Meu foco e paixão estão em Desenvolvimento Back-End voltado a Java ☕  <br> <br>
   🌱 Estou constantemente em busca de conhecimento para aprimorar minhas habilidades!  <br> <br>
