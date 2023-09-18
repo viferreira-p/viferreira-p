@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vitória Ferreira, but you can call me Vi!<br>
+Hi, I'm Vitória Ferreira, but you can call me Vi! ;)<br>
 ADS Student at Descomplica Faculdade Digital<br>Learning Back-end specializing in Java
 
 
